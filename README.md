@@ -1,4 +1,3 @@
-<!DOCTYPE HTML>
 <html lang="en-us">
     <head>
         <title> Health-A important part </title> 
@@ -35,7 +34,7 @@
         <li>  Add sugar and after sometime add milk in it.</li>
         <li>  Heat it till it starts boiling and stir it and pour it in the cup.</li>
         <section title="Intresting Tea Facts">
-     </ol>
+     
 
         <span> Do you know the difference of Tea??</span>
         <dt> TEA POWDER</dt>
@@ -49,7 +48,7 @@
                     <li class="breadcrumb-item active"> Recipes </li>                </ol>
 
                 <table> 
-            </header>
+            
                 
                 
                 <thead> 
@@ -97,11 +96,10 @@
     <p>
         <q> I like this tea very much and it is my favourite now.</q>
     </p>
-    Our cups are labelled  with <spanclass="important">WARNING:TEA IS HOT! <style>span.important{color: blue;} </style>
- </span> 
-      </div>
+    Our cups are labelled  with Important Tea is Hot!! <style>span.important{color: blue;} </style>
+      
     <footer>
         &copy; Bhuvan 2022
     </footer>
-    </body>
-</html>
+    
+
