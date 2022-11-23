@@ -13,7 +13,7 @@
         </header>
       </article>
 
-    <section style="font-size: 26px;color: yellow;font-style: oblique;" id="body">
+    <section style="font-size: 26px;color: dark blue  ;font-style: oblique;" id="body">
         At wired brain,We believe that it will help you!!
     
      <p>Tea has a long known and huge using of tea is bad for Health </p>
