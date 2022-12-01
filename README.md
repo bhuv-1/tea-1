@@ -1,7 +1,6 @@
 <html lang="en-us">
     <head>
         <title> Health-A important part </title> 
-    <img src="Masala chai.JPG>
     
     </head>
    
@@ -12,6 +11,7 @@
 
             <h1>Wired Brain Tea</h1>
             <h2>Tea to keep your brain wired</h2>
+            ![abc](https://pixabay.com/vectors/youtube-button-web-site-link-url-667451/)
           
         </header>
       </article>
