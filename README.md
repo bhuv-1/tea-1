@@ -1,3 +1,4 @@
+<!DOCTYPE HTML>
 <html lang="en-us">
     <head>
         <title> Health-A important part </title> 
@@ -12,8 +13,8 @@
           
         </header>
       </article>
-
-    <section style="font-size: 26px;color: red; font-style: oblique;" id="body">
+     <img src="https://www.bing.com/images/search?view=detailV2&ccid=MPTK%2bG8Z&id=2AE3228FB427BCDB934A91FBE9A1A768CBCB2312&thid=OIP.MPTK-G8ZC1KuwCagNF0eRQHaFi&mediaurl=https%3a%2f%2f2.bp.blogspot.com%2f-3eTYGHu6y6w%2fUfaf8YBBihI%2fAAAAAAAABRU%2fFBFmPohhKP0%2fs1600%2fMasala%2bchai.JPG&exph=1195&expw=1600&q=chai&simid=608038095258199409&FORM=IRPRST&ck=D3F652D9A04C1A891A560260B0BDB70B&selectedIndex=18&ajaxhist=0&ajaxserp=0">
+    <section style="font-size: 26px;color: rgb(12, 33, 138);font-style: oblique;" id="body">
         At wired brain,We believe that it will help you!!
     
      <p>Tea has a long known and huge using of tea is bad for Health </p>
@@ -33,10 +34,8 @@
         <li>  Add tealeaves in the pan.</li>
         <li>  Add sugar and after sometime add milk in it.</li>
         <li>  Heat it till it starts boiling and stir it and pour it in the cup.</li>
-        <a hrf="https://www.youtube.com/watch?v=xSB1bMDF0Hw"></a>
-        
         <section title="Intresting Tea Facts">
-     
+     </ol>
 
         <span> Do you know the difference of Tea??</span>
         <dt> TEA POWDER</dt>
@@ -50,7 +49,7 @@
                     <li class="breadcrumb-item active"> Recipes </li>                </ol>
 
                 <table> 
-            
+            </header>
                 
                 
                 <thead> 
@@ -63,7 +62,6 @@
                     <th>fat(g)</th>
                     <th>sugar(g)</th>
                     <th>fiber(g)</th>
-                    <th>total(g)</th>
                 </tr>
                </thead>
                <tbody>
@@ -99,10 +97,13 @@
     <p>
         <q> I like this tea very much and it is my favourite now.</q>
     </p>
-    Our cups are labelled  with Important Tea is Hot!! <style>span.important{color: blue;} </style>
-      
+    Our cups are labelled  with <spanclass="important">WARNING:TEA IS HOT! <style>span.important{color: blue;} </style>
+ </span> 
+      </div>
     <footer>
         &copy; Bhuvan 2022
     </footer>
+    </body>
+</html>
     
 
