@@ -8,7 +8,7 @@
       <article>
         <header>
 
-<img src=https://user-images.githubusercontent.com/54862167/64559227-0abc8380-d303-11e9-999e-ccb9e86cf236.png>
+
             <h1>Wired Brain Tea</h1>
             <h2>Tea to keep your brain wired</h2>
            
@@ -30,6 +30,7 @@
         <li> 1/2 cup  milk </li>
     </ul>
     <h3>STEPS</h3>
+        <img src=https://user-images.githubusercontent.com/54862167/64559227-0abc8380-d303-11e9-999e-ccb9e86cf236.png>
     <ol> 
         <li>  Take a fryingpan and put it on the stove.</li>
         <li>  Add water in the pan.</li>
