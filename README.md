@@ -105,6 +105,8 @@
     <footer>
         &copy; Bhuvan 2022
     </footer>
+    </body>
+    </html>
     
     
 
