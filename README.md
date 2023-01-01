@@ -1,9 +1,8 @@
+<!DOCTYPE HTML>
 <html lang="en-us">
     <head>
         <title> Health-A important part </title> 
-    
     </head>
-   
     <body>
       <article>
         <header>
@@ -11,12 +10,10 @@
 
             <h1>Wired Brain Tea</h1>
             <h2>Tea to keep your brain wired</h2>
-           
           
         </header>
       </article>
-    
-    <section style="font-size: 26px;color: rgb(12, 33, 138);font-style: oblique;" id="body">
+      
         At wired brain,We believe that it will help you!!
     
      <p>Tea has a long known and huge using of tea is bad for Health </p>
@@ -30,7 +27,6 @@
         <li> 1/2 cup  milk </li>
     </ul>
     <h3>STEPS</h3>
-        <img src=https://user-images.githubusercontent.com/54862167/64559227-0abc8380-d303-11e9-999e-ccb9e86cf236.png>
     <ol> 
         <li>  Take a fryingpan and put it on the stove.</li>
         <li>  Add water in the pan.</li>
@@ -38,21 +34,21 @@
         <li>  Add sugar and after sometime add milk in it.</li>
         <li>  Heat it till it starts boiling and stir it and pour it in the cup.</li>
         <section title="Intresting Tea Facts">
-     
+     </ol>
 
-        <span> Do you know the difference of Tea and Tea Powder??</span>
+        <span> Do you know the difference of Tea??</span>
         <dt> TEA POWDER</dt>
         <dl>
-            <header> 
+            ,<header> 
             <dd> The substance which is left after the pour is useless or you cannot use that substance </dd>
-                <ol class="breadcrumb">7
+                <ol class="breadcrumb">
                 <h2> Wired brain Tea Extraa</h2>
 
                     <li class="breadcrumb-item">Wired brain tea </li>
                     <li class="breadcrumb-item active"> Recipes </li>                </ol>
 
                 <table> 
-            
+            </header>
                 
                 
                 <thead> 
@@ -100,13 +96,11 @@
     <p>
         <q> I like this tea very much and it is my favourite now.</q>
     </p>
-                                                      Our cups are labelled  with WARNING:TEA IS HOT! <style>span.important{color: blue;} </style>
-      
+    Our cups are labelled  with <spanclass="important">WARNING:TEA IS HOT! <style>span.important{color: blue;} </style>
+ </span> 
+      </div>
     <footer>
         &copy; Bhuvan 2022
     </footer>
     </body>
-    </html>
-    
-    
-
+</html>
