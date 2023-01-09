@@ -28,16 +28,16 @@
     <section title="Intresting Tea Facts">
  </ol>
 
-    <span> Do you know the difference of Tea??</span>
-    <dt> TEA POWDER</dt>
+    <span> Do you know the difference of Tea?? </span>
+    <dt> TEA POWDER </dt>
     <dl>
         ,<header> 
         <dd> The substance which is left after the pour is useless or you cannot use that substance </dd>
             <ol class="breadcrumb">
-            <h2> Wired brain Tea Extraa</h2>
+            <h2> Wired brain Tea Extraa </h2>
 
                 <li class="breadcrumb-item">Wired brain tea </li>
-                <li class="breadcrumb-item active"> Recipes </li>                </ol>
+                <li class="breadcrumb-item active"> Recipes </li>                </dl>
 
             <table> 
         </header>
