@@ -1,5 +1,7 @@
 <title> Health-A important part </title>
-        <h1>Wired Brain Tea</h1>
+
+  
+  <h1>Wired Brain Tea</h1>
         <h2>Tea to keep your brain wired</h2>
       
     </header>
@@ -26,21 +28,21 @@
     <li>  Add sugar and after sometime add milk in it.</li>
     <li>  Heat it till it starts boiling and stir it and pour it in the cup.</li>
     <section title="Intresting Tea Facts">
- </ol>
+ 
 
-    <span> Do you know the difference of Tea?? </span>
-    <dt> TEA POWDER </dt>
+    <span> Do you know the difference of Tea??</span>
+    <dt> TEA POWDER</dt>
     <dl>
         ,<header> 
         <dd> The substance which is left after the pour is useless or you cannot use that substance </dd>
             <ol class="breadcrumb">
-            <h2> Wired brain Tea Extraa </h2>
+            <h2> Wired brain Tea Extraa</h2>
 
                 <li class="breadcrumb-item">Wired brain tea </li>
-                <li class="breadcrumb-item active"> Recipes </li>                </dl>
+                <li class="breadcrumb-item active"> Recipes </li>                </ol>
 
             <table> 
-        </header>
+        
             
             
             <thead> 
@@ -53,6 +55,7 @@
                 <th>fat(g)</th>
                 <th>sugar(g)</th>
                 <th>fiber(g)</th>
+                <th>total(g)</th>
             </tr>
            </thead>
            <tbody>
@@ -88,4 +91,8 @@
 <p>
     <q> I like this tea very much and it is my favourite now.</q>
 </p>
-Our cups are labelled  with <spanclass="important">WARNING:TEA IS HOT! <style>span.important{color: blue;} </style>
+Our cups are labelled  with Important Tea is Hot!! <style>span.important{color: blue;} </style>
+  
+<footer>
+    &copy; Bhuvan 2022
+</footer>
