@@ -30,10 +30,13 @@
     <section title="Intresting Tea Facts">
  
 
-    <span> Do you know the difference of Tea??</span>
-    <dt> TEA POWDER</dt>
+   
+      <span> Do you know the difference of Tea??</span>
+  
+      
+      <dt> TEA POWDER</dt>
     <dl>
-        ,<header> 
+        <header> 
         <dd> The substance which is left after the pour is useless or you cannot use that substance </dd>
             <ol class="breadcrumb">
             <h2> Wired brain Tea Extraa</h2>
@@ -82,16 +85,17 @@
             </tr>
            </tfoot>
         </table>
-<h2>Testimonials</h2>
 
-<hr />
+          <h2>Testimonials</h2>
+
+
 
 <blockquote>WB Tea makes my brain feel active.</blockquote>
 <cite> Tanvika Mehndiratta,Faridabad</cite>
 <p>
     <q> I like this tea very much and it is my favourite now.</q>
 </p>
-Our cups are labelled  with Important Tea is Hot!! <style>span.important{color: blue;} </style>
+Our cups are labelled  with Important Tea is Hot!! 
   
 <footer>
     &copy; Bhuvan 2022
