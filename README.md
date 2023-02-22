@@ -3,7 +3,7 @@
     <head>
         
     </head>
-    <body>
+    <body style="background-color:aquamarine;">
       <article>
         <header>
 
