@@ -62,6 +62,7 @@
                     <th>fat(g)</th>
                     <th>sugar(g)</th>
                     <th>fiber(g)</th>
+                    <th>total</th>
                 </tr>
                </thead>
                <tbody>
